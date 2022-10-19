@@ -1,0 +1,93 @@
+ *{
+    margin: 0;
+    padding: 0;
+    ;
+ }
+.all-ball1, .all-ball2, .all-ball3, .all-ball4{margin-right: 30px;
+    color: black;
+    background-color: white;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+
+.liverpool{
+    background-color:lightblue;
+    background-image: url(../IMG/aboutus.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.7)) , url(../IMG/aboutus.jpg) center/cover no-repeat fixed;
+    height: 100vh;
+    padding: 30%;
+    margin-bottom: 30%;
+   
+
+
+}
+.all-liverpool{
+    background-color:black;
+    box-shadow: 5px 12px 30px;
+    text-align: center;
+    width: 60%;
+    margin-right: 40%;
+    padding: 30%;
+    box-shadow: 7px 5px red;
+    margin-bottom: 60%;
+
+}
+.BTC a{
+text-decoration: none;
+background-color: black;
+color: brown;
+padding: 8px;
+border-radius: 5px;
+margin-top: 10%;
+
+}
+.BTC{
+    margin-top:30px ;
+}
+.BTC-1{
+    margin-top: 30PX;
+    color: white;
+}
+
+.BTC-2{
+    background-color: orangered !important;
+}
+
+.all-ball{
+    margin-left: 40%;
+    text-align: center;
+    width: 50%;
+    height: 30%;
+    border-radius: 5px;
+
+    
+}
+
+.ball{
+    background-color: red;
+}
+.WE{
+    text-underline-offset: ;
+}
+.ETH{
+    background-color: aquamarine;
+    background-image: url(../IMG/blog.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.7)) , url(../IMG/aboutus.jpg) center/cover no-repeat fixed;
+    height: 50vh;
+    padding: 3;
+    margin-top: 70%;
+    
+    
+}
+.LOREM{
+    color: yellow;
+}

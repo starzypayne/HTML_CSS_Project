@@ -1,0 +1,53 @@
+.all-flex{
+    display: flex;
+    column-gap: 2rem;
+    gap: 2rem;
+}
+
+.all-flex div{
+    background-color: aqua;
+}
+.all-flex-basis{
+    display: flex;
+    gap: 2rem
+    ;
+}
+
+.left-side{ background-color: rgb(4,53, 213);
+    height: 100vh;
+    flex-basis: 25}
+
+.left-side{
+background-color: green;
+height: 100vh;
+flex-basis: 25%;
+}
+.center-side{
+    background-color: white;
+    height: 100vh;
+    flex-basis: 50%;
+
+}
+.right-side{
+background-color: rgb(4, 53, 213);
+height: 100vh;
+flex-basis: 25%;
+}
+/* justify-content: space between 
+justify-content: space evenly
+justify-content:space around
+justify-content:center */
+
+.all-justify{
+    background-color: black;
+    display: flex;
+    sp
+
+    
+}
+
+.all-justify a{
+    text-decoration: none;
+    
+
+}

@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,500;1,900&display=swap');
+
+p{
+    color: cornflowerblue;
+}
+
+.container{
+    background-color: green;
+    width: 500px;
+    height: 500px;
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-bottom: 40px;
+    padding-right: 40px;
+    padding: 40px 50px 50px 70px;
+    padding: 60px 80px;
+    padding: 40px;
+    margin-left: 150px;
+    margin-top: 100px;
+    border-color: blue;
+    border-style: ridge;
+    border-width: 10px;
+    border: 10px solid purple;
+    border-top: 10px ridge orangered;
+}
+.inner{
+    background-color: red;
+    width: 300px;
+    height: 300px;
+    
+}
+
+
+
+/* css fonts 
+
+  font-family
+  font-size
+  font-style
+  font-weight
+   
+
+
+*/
+
+.font .para{
+    color: purple;
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    font-style: italic;
+
+}
+.main{
+    font-size: 32px;
+}
+
+/* css units
+   pixel px
+   rem
+   em
+   pc
+   %
+
+*/
+
+
+/* css links */
+
+/* hover
+   active
+   visted
+   text decoration
+*/
+.link{
+    background-color: orangered;
+    padding: 10px;
+    text-decoration: none;
+    text-decoration: line-through;
+    text-decoration: underline;
+    text-decoration: overline;
+    
+}
+.link:hover{
+    background-color: blue;
+     color: white;
+     padding: 20px;
+}
+.link:active{
+     background-color: green;
+}
+.link:visited{
+    background-color: black;
+}
+.all-links{
+    text-align: center;
+}
+
+
+/* css border-raduis */
+.image img{
+    width: 10rem;
+    height: 10rem;
+    border-radius: 20px 40px 50px 0px;
+}
+
+
+
+/* overflow */
+
+
+
+

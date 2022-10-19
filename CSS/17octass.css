@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+}
+.all-navigation{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 8px;
+    
+}
+.nav-logo img{
+    width: 150px;
+}
+.nav-right{
+    text-decoration: none;
+    color: red;
+    margin: 0 15px;
+}
+.lastlink{
+    background-color: red;
+    padding: 15px;
+    color: white !important;
+    margin-left: 300px;
+}
+.nav-right a{
+    justify-content: space-evenly;
+    margin: 5px;
+    color: black;
+    margin-right: 3rem;
+}
+/* hero section */
+.allhero{
+    display: flex;
+    padding: 30px;
+}
+.hero1img{
+    padding: 30px;
+    margin-left: 10%;
+}
+.lastlink1{
+    margin-right: 10%;
+    background-color: red;
+    color: white;
+}
+.hero1 h2{
+    font-size:40px ;
+}
+.secondhero{
+    display: flex;
+}
+.secondhero h2{
+    font: 20px;
+}
+.secondhero h3{
+    font-size: 25px;
+}
+/* end of second hero */
+ 
+.heroh1z{
+    text-align: center;
+    text-decoration: none;
+    font: 40px;
+    color: red;
+}
+
+.heroh1{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 30px;
+}
+.getstarted3{
+    text-align: center;
+    background-color: red;
+    color: white;
+}

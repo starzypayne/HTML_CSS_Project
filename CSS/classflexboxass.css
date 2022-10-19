@@ -1,0 +1,21 @@
+.card{
+    background-color: aqua;
+    text-align: center;
+    padding: 20px;
+}
+.all-container-content{
+    background-color: aquamarine;
+    padding: 40px;
+
+}
+.card img{
+    width: 8rem;
+    height: 8rem;
+    border-radius: 50%;
+}
+.btn a{
+    background-color: green;
+}
+.allcontainer{
+    display: flex;
+}

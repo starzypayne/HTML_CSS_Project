@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+
+
+}
+
+.overflow-y{
+    height: 600px;
+    background-color: lightblue;
+margin-left: 30%;
+margin-top: 40px;
+width: 40%;
+padding: 20px;
+
+overflow: scroll;
+}
+img{
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+}
+.image{
+    display: flex;
+    overflow-x: scroll;
+}

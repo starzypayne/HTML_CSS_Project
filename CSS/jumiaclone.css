@@ -1,0 +1,48 @@
+body{
+    background-color: #f5f5f5;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    display: flex;
+}
+.container{
+    background-color: white;
+    width: 100%;
+    margin: 0 8%;
+    padding: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+.rating .fa{
+    color: #f6881e;
+   
+}
+.chart a{
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+
+}
+.chart{
+    background-color:#f6881e ;
+    margin: 10px 40px;
+    padding: 8px 10px;
+    border-radius: 8px;
+    color: white;
+    display: none;
+}
+
+.product-1:hover{
+    box-shadow: 2px 4px 15px #ccc;
+    cursor: pointer;
+}
+.product-1:hover .chart{
+    display: block;
+}
+img{
+    width: 100%;
+}
+.profile1{
+    box-shadow: 2px 4px 13px;
+}

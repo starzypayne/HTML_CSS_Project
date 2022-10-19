@@ -1,0 +1,58 @@
+/* global classes */
+.flex{
+
+}
+.justify-content{
+    justify-content: space-between;
+}
+
+.all-nav{
+    margin: 0 10%;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    align-items: center;
+}
+.nav-center a{
+    text-decoration: none;
+    margin: 0 30px;
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+
+}
+.nav-right a{
+    background-color: #f3603c;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.all-hero{
+    margin: 7% 10%;
+    display: flex;
+}
+.hero-left h1 span{
+    display: block;
+    font-size: 70px;
+}
+.all-manage{
+    display: flex;
+    justify-content: space-between;
+    margin: 7% 10%;
+}
+.track-number{
+    display: flex;
+    align-items: center;
+}
+.track-number h5{
+    background-color: #f3603c;
+    color: white;
+padding: 7px 10px;
+border-radius: 20px;
+font-size: 20px;
+margin: 0 10px;
+}
+.manage-right p{
+    margin-left: 70px;
+}
